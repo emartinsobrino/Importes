@@ -1,0 +1,2 @@
+def diego():
+  return 'diego'
